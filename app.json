@@ -1,7 +1,7 @@
 {
-	"name": "Heroku aria2c",
-	"description": "Run aria2c on heroku",
-	"repository": "https://github.com/maple3142/heroku-aria2c",
+	"name": "AriaNG-2GD",
+	"description": "Magrent",
+	"repository": "https://github.com/venom3525/AriaNG-2GD",
 	"keywords": ["aria2c"],
 	"env": {
 		"HEROKU_APP_NAME": {
