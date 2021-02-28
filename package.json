@@ -1,8 +1,8 @@
 {
-	"name": "heroku-aria2c",
+	"name": "AriaNG-2GD",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "maple3142 <kirby741852963@gmail.com>",
+	"author": "VENOM",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
