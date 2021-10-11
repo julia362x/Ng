@@ -4,10 +4,10 @@ WORKDIR /root
 
 COPY . .
 
-RUN bash setup.sh
+RUN bash set.sh
 
-ENV PATH="/root/rclone-v1.54.0-linux-amd64:$PATH"
+ENV PATH="/root/rclone-v1.56.2-linux-amd64:$PATH"
 
-ENV PATH="/root/aria2-1.35.0-linux-gnu-64bit-build1:$PATH"
+ENV PATH="/root/aria2-1.36.0-linux-gnu-64bit-build1:$PATH"
 
-CMD bash /root/start.sh
+CMD bash /root/run.sh
